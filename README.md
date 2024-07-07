@@ -6,7 +6,10 @@
 Well, let me know what you think about my solutions at [Find me](mailto:sarthak.chauhan@sjsu.edu)
 
 ### Two Pointer Solutions
-1. [Merge Strings Alternatively](merge_strings_alternatively.py) was asked in Uber!
+1. [Merge Strings Alternatively](merge_strings_alternatively.py) was asked in Uber!, LC #[1768](https://leetcode.com/problems/merge-strings-alternately/description/)
+
+### AdHoc Solutions 
+1. [Kid with greatest candies](greatest_candies.py) tough to optimize, LC #[1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)
 
 
 That's all for now folks!
