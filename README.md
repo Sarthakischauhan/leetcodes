@@ -11,5 +11,7 @@ Well, let me know what you think about my solutions at [Find me](mailto:sarthak.
 ### AdHoc Solutions 
 1. [Kid with greatest candies](greatest_candies.py) tough to optimize, LC #[1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)
 
+### Single Scan Solutions
+1. [Can place flowers](can_place_flowers.py) easy, LC #[605](https://leetcode.com/problems/can-place-flowers/description/)
 
 That's all for now folks!
