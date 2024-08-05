@@ -17,4 +17,8 @@ Well, let me know what you think about my solutions at [Find me](mailto:sarthak.
 ### I Don't Even Know
 1. [String Compression 1](string_compression1.py) medium, really bad description. LC #[443](https://leetcode.com/problems/string-compression/)
 
+### Stack questions 
+1. [Asteroid Collision](asteroid_collision.py) meidum, bad example and description. LC #[735](https://leetcode.com/problems/asteroid-collision)
+
+
 That's all for now folks!
