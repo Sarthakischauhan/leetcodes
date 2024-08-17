@@ -13,6 +13,7 @@ Well, let me know what you think about my solutions at [Find me](mailto:sarthak.
 
 ### Single Scan Solutions
 1. [Can place flowers](can_place_flowers.py) easy, LC #[605](https://leetcode.com/problems/can-place-flowers/description/)
+2. [Recent Counter](num_recent_calls.py) bad, skip.
 
 ### I Don't Even Know
 1. [String Compression 1](string_compression1.py) medium, really bad description. LC #[443](https://leetcode.com/problems/string-compression/)
