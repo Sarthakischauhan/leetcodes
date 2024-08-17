@@ -19,6 +19,6 @@ Well, let me know what you think about my solutions at [Find me](mailto:sarthak.
 
 ### Stack questions 
 1. [Asteroid Collision](asteroid_collison.py) meidum, bad example and description. LC #[735](https://leetcode.com/problems/asteroid-collision)
-2. [Decode String](decode_string.py) medium, decent example with good test case, for now I have to wait for the solution. LC #[394](https://leetcode.com/problems/decode-string/description/).
+2. [Decode String](decode_strings.py) medium, decent example with good test case, for now I have to wait for the solution. LC #[394](https://leetcode.com/problems/decode-string/description/).
 
 That's all for now folks!
