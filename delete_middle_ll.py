@@ -13,13 +13,15 @@ class Solution:
         while curr:
             count += 1
             curr = curr.next
+
         middle = count//2 - 1
         current = head
         for i in range(middle):
             # we want to run it one less than the middle node
             current = current.next
-            print(current==head)
         current.next = current.next.next
+        # at this point, we have the same address for head and current
+        # so when we change current next pointer, we are also changing head next pointer 
         return head
 
 # A poorly written code but has the same time complexity as other solns O(n) 
