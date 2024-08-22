@@ -25,6 +25,7 @@ Well, let me know what you think about my solutions at [Find me](mailto:sarthak.
 
 ### Linked list questions
 1. [Linked List](reverse_ll.py) medium, easy code difficult implementation, LC #[206](https://leetcode.com/problems/reverse-linked-list/description/)
-
+2. [Middle Node](middle_ll.py) easy, LC #[876](https://leetcode.com/problems/middle-of-the-linked-list/description/)
+3. [Delete middle node of linked list](delete_middle_ll.py) medium, LC #[867](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/)
 
 That's all for now folks!
