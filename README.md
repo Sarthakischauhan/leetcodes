@@ -4,7 +4,8 @@
 
 ## How can you help ?
 Well, let me know what you think about my solutions at [Find me](mailto:sarthak.chauhan@sjsu.edu)
-### Two Pointer Solutions 1. [Merge Strings Alternatively](merge_strings_alternatively.py) was asked in Uber!, LC #[1768](https://leetcode.com/problems/merge-strings-alternately/description/)
+### Two Pointer Solutions 
+1. [Merge Strings Alternatively](merge_strings_alternatively.py) was asked in Uber!, LC #[1768](https://leetcode.com/problems/merge-strings-alternately/description/)
 
 ### AdHoc Solutions 
 1. [Kid with greatest candies](greatest_candies.py) tough to optimize, LC #[1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)
@@ -24,8 +25,8 @@ Well, let me know what you think about my solutions at [Find me](mailto:sarthak.
 1. [Dota2 Senate](dota_senate.py) easy, tough description however, watched neetcode for understanding, LC #[649](https://leetcode.com/problems/dota2-senate/description/)
 
 ### Linked list questions
-1. [Linked List](reverse_ll.py) medium, easy code difficult implementation, LC #[206](https://leetcode.com/problems/reverse-linked-list/description/)
+1. [Reverse Linked List](reverse_ll.py) medium, easy code difficult implementation, LC #[206](https://leetcode.com/problems/reverse-linked-list/description/)
 2. [Middle Node](middle_ll.py) easy, LC #[876](https://leetcode.com/problems/middle-of-the-linked-list/description/)
 3. [Delete middle node of linked list](delete_middle_ll.py) medium, LC #[867](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/)
-
+4. [Odd Even Linked List](oddeven_list.py) good question to understand Linked list, LC #[328](https://leetcode.com/problems/odd-even-linked-list/description/)
 That's all for now folks!
