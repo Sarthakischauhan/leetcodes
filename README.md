@@ -29,4 +29,7 @@ Well, let me know what you think about my solutions at [Find me](mailto:sarthak.
 2. [Middle Node](middle_ll.py) easy, LC #[876](https://leetcode.com/problems/middle-of-the-linked-list/description/)
 3. [Delete middle node of linked list](delete_middle_ll.py) medium, LC #[867](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/)
 4. [Odd Even Linked List](oddeven_list.py) good question to understand Linked list, LC #[328](https://leetcode.com/problems/odd-even-linked-list/description/)
+
+### Graph Questions
+1. [Number of Islands](num_of_islands.py) So not my solution but the most basic way to solve it,**Will improve it later**, LC #[200](https://leetcode.com/problems/number-of-islands/description/) 
 That's all for now folks!
