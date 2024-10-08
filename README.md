@@ -32,6 +32,7 @@ Well, let me know what you think about my solutions at [Find me](mailto:sarthak.
 
 ### Graph Questions
 1. [Number of Islands](num_of_islands.py) So not my solution but the most basic way to solve it,**Will improve it later**, LC #[200](https://leetcode.com/problems/number-of-islands/description/) 
+2. [Key and rooms](key_and_rooms.py) I have said what I have said, LC #[841](https://leetcode.com/problems/keys-and-rooms/description/)
 
 ### Hashmap/Hashset questions
 1. [Find the difference of two arrays](diff_two_arrays.py) easy question, more of these to come, LC #[2215](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)
