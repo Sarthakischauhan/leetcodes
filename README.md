@@ -12,7 +12,7 @@ Well, let me know what you think about my solutions at [Find me](mailto:sarthak.
 
 ### Single Scan Solutions
 1. [Can place flowers](can_place_flowers.py) easy, LC #[605](https://leetcode.com/problems/can-place-flowers/description/)
-2. [Recent Counter](num_recent_calls.py) bad, skip.
+2. [Recent Counter](./num_recent_call.py) bad, skip.
 
 ### I Don't Even Know
 1. [String Compression 1](string_compression1.py) medium, really bad description. LC #[443](https://leetcode.com/problems/string-compression/)
@@ -33,6 +33,8 @@ Well, let me know what you think about my solutions at [Find me](mailto:sarthak.
 ### Graph Questions
 1. [Number of Islands](num_of_islands.py) So not my solution but the most basic way to solve it,**Will improve it later**, LC #[200](https://leetcode.com/problems/number-of-islands/description/) 
 2. [Key and rooms](key_and_rooms.py) I have said what I have said, LC #[841](https://leetcode.com/problems/keys-and-rooms/description/)
+3. [Number of provinces](./number_of_provinces.py) Was comparitively easier than last one, just needed to implement DFS. LC #[547](https://leetcode.com/problems/number-of-provinces/description/)
+4. [Graph implementation](./Graphs.py) **This is not a leetcode question but my implementation on BFS and DFS
 
 ### Hashmap/Hashset questions
 1. [Find the difference of two arrays](diff_two_arrays.py) easy question, more of these to come, LC #[2215](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)
