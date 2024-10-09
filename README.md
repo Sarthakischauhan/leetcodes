@@ -41,5 +41,6 @@ Well, let me know what you think about my solutions at [Find me](mailto:sarthak.
 1. [Find the difference of two arrays](diff_two_arrays.py) easy question, more of these to come, LC #[2215](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)
 2. [Unique Number of Occurences](unq_number_occ.py) I have said what I have said, LC #[1207](https://leetcode.com/problems/unique-number-of-occurrences/description/). 
 3. [Determine if two strings are close](two_strings_close.py) Fun question to solve, I could have never solved it in first try. LC #[1657](https://leetcode.com/problems/determine-if-two-strings-are-close/description/)
+4. [Equal rows and column pairs](./equal_rows_cols.py) Easy question, i learn't how to remove last element in a string. LC #[2352](https://leetcode.com/problems/equal-row-and-column-pairs/description/)
 
 That's all for now folks!
