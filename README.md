@@ -43,4 +43,8 @@ Well, let me know what you think about my solutions at [Find me](mailto:sarthak.
 3. [Determine if two strings are close](two_strings_close.py) Fun question to solve, I could have never solved it in first try. LC #[1657](https://leetcode.com/problems/determine-if-two-strings-are-close/description/)
 4. [Equal rows and column pairs](./equal_rows_cols.py) Easy question, i learn't how to remove last element in a string. LC #[2352](https://leetcode.com/problems/equal-row-and-column-pairs/description/)
 
+### Sliding Window
+1. [Maximum Average Subarray I](./max_subarray_avg.py) Easy quesiton, was tough to solve in O(n), I was not locked in. LC #[643](https://leetcode.com/problems/maximum-average-subarray-i/description/)
+
+
 That's all for now folks!
