@@ -46,5 +46,6 @@ Well, let me know what you think about my solutions at [Find me](mailto:sarthak.
 ### Sliding Window
 1. [Maximum Average Subarray I](./max_subarray_avg.py) Easy quesiton, was tough to solve in O(n), I was not locked in. LC #[643](https://leetcode.com/problems/maximum-average-subarray-i/description/)
 2. [Maximum number of vowels in subarray](./max_vowels_sub.py) Easy question, I couldn't solve/code it. LC #[1456](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/)
+3. [Max Consecutive III](./max_cons_3.py) tough to realise how sliding window can be used in this case. LC #[1004](https://leetcode.com/problems/max-consecutive-ones-iii/description/)
 
 That's all for now folks!
