@@ -49,5 +49,9 @@ Well, let me know what you think about my solutions at [Find me](mailto:sarthak.
 3. [Max Consecutive III](./max_cons_3.py) tough to realise how sliding window can be used in this case. LC #[1004](https://leetcode.com/problems/max-consecutive-ones-iii/description/)
 4. [Longest Subarray of 1's after deleting one](./longest_sub1s.py) Same as last time, read answer for more LC #[1493](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) 
 
+### Rotate matrix
+1. [Rotate matrix 90 degree](./rotate_matrix.py) simple program to rotate matrix.
+2. [Find if rotation meets target](./determine_rotate.py) LC #[1886](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
+
 
 That's all for now folks!
