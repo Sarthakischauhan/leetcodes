@@ -1,18 +1,32 @@
 class Solution:
     def calcEquation(self, equations: List[List[str]], values: List[float], queries: List[List[str]]) -> List[float]:
         
-        # Step 1: Build the graph
-        edges = collections.defaultdict(list)
-
+        edges = collections.defaultdict(dict)
         for i in range(len(equations)):
-            # ex a/b 
-            edges[equations[i][0]].append({equations[i][1]: values[i]})
-            edges[equations[i][1]].append({equations[i][0] : 1 / values[i]})
+            a,b = equations[i]
+            edges[a][b] = values[i]
+            edges[b][a] = 1 / values[i]
 
-        def dfs(x,y,visited):
+        print(edges)  
 
+        def DFS(start, end, visited):
+            if start == end:
+                return 1.0
+            visited.add(start)
+            for neighbor in edges[start]:
+                if neighbor not in visited:
+                    res = DFS(neighbor, end, visited)
+                    if res != -1.0:
+                        return res * edges[start][neighbor]
+            return -1.0
 
+        results = []
+        for start, end in queries:
+            if start in edges and end in edges:
+                visited = set()
+                results.append(DFS(start,end,visited))
+            else:
+                results.append(-1.0)
+        return results
 
-        return []
-
-# Not working yet, can be done later
+# I didn't exactly figure out how to implement graph in code, I always seem to forget the algos
