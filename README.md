@@ -53,5 +53,8 @@ Well, let me know what you think about my solutions at [Find me](mailto:sarthak.
 1. [Rotate matrix 90 degree](./rotate_matrix.py) simple program to rotate matrix.
 2. [Find if rotation meets target](./determine_rotate.py) LC #[1886](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
 
+### Trees
+1.[All traversals](./btrees/traversals.py) These are all the traversals for binary trees
+
 
 That's all for now folks!
