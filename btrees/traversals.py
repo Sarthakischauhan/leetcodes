@@ -10,7 +10,8 @@ class Traversal:
     def __init__(self,root, method):
         self.root = root
         self.method = method
-
+    
+    # LRR
     def inorder_iterative(self):
         stack = []
         res = [] 
@@ -24,7 +25,8 @@ class Traversal:
     
             curr = curr.right
         return res 
-    
+   
+    # RLR
     def preorder_iterative(self):
         
         stack = [] 
@@ -45,14 +47,36 @@ class Traversal:
                 curr = curr.left
 
         return res
-    
-    def postorder_iterative(self):
-        curr = self.root
-        stack = []
-        res = []
 
-        # Still working on it.
-    
+    # LRR 
+    def postorder_iterative(self):
+        curr = self.root 
+        stack = []
+        res = [] 
+
+        while True:
+            while curr:
+                # Push right child before left
+                if curr.right:
+                    stack.append(curr.right)
+                stack.append(curr)
+                curr = curr.left
+
+            if not stack:
+                break
+            
+            curr = stack.pop()
+
+            if curr.right and len(stack) > 0 and stack[-1] == curr.right:
+                stack.pop()
+                stack.append(curr)
+                curr = curr.right
+            else:
+                res.append(curr.val)
+                curr = None
+        return res
+
+    # Level wise
     def levelorder_iterative(self):
         curr = self.root
         res = []
@@ -80,3 +104,5 @@ t = Traversal(root,method)
 print(t.inorder_iterative())
 print(t.preorder_iterative())
 print(t.levelorder_iterative())
+print(t.postorder_iterative())
+
