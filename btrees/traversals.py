@@ -54,7 +54,7 @@ class Traversal:
         stack = []
         res = [] 
 
-        while True:
+        while len(stack) >= 0:
             while curr:
                 # Push right child before left
                 if curr.right:
@@ -101,8 +101,9 @@ root.right.left = TreeNode(6)
 root.right.right = TreeNode(7)
 
 t = Traversal(root,method)
-print(t.inorder_iterative())
-print(t.preorder_iterative())
-print(t.levelorder_iterative())
-print(t.postorder_iterative())
+if __name__ == "__main__":
+    print(t.inorder_iterative())
+    print(t.preorder_iterative())
+    print(t.levelorder_iterative())
+    print(t.postorder_iterative())
 
