@@ -57,5 +57,7 @@ Well, let me know what you think about my solutions at [Find me](mailto:sarthak.
 1.[All traversals](./btrees/traversals.py) These are all the traversals for binary trees
 2.[Search Key](./btrees/search.py) Searching node in a binary search trees LC #[700](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)
 3.[Delete node](./btrees/deleteNode.py) Deleting a node recurisive approach LC #[450](https://leetcode.com/problems/delete-node-in-a-bst/)
+4.[Maximum Depth Btree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) maximum depth tree
+5.[Leaf Similar Tree](./btrees/similar_leaf.py) easy binary tree problem LC #[872](https://leetcode.com/problems/leaf-similar-trees/description/)
 
 That's all for now folks!
