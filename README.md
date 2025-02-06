@@ -6,6 +6,9 @@
 Well, let me know what you think about my solutions at [Find me](mailto:sarthak.chauhan@sjsu.edu)
 ### Two Pointer Solutions 
 1. [Merge Strings Alternatively](merge_strings_alternatively.py) was asked in Uber!, LC #[1768](https://leetcode.com/problems/merge-strings-alternately/description/)
+2. [Move Zeroes](./move_zeroes.py) Was asked in Tesla to me!. My simple Solution. 
+3. [Is Subsequence](./is_subsequence.py) two pointer approach not really needed. 
+4. [Max K-sum pairs](./max_k_pairs.py) Took help but the solution was really helpful. Always use sorted arrays if finding pairs.
 
 ### AdHoc Solutions 
 1. [Kid with greatest candies](greatest_candies.py) tough to optimize, LC #[1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)
@@ -54,10 +57,10 @@ Well, let me know what you think about my solutions at [Find me](mailto:sarthak.
 2. [Find if rotation meets target](./determine_rotate.py) LC #[1886](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
 
 ### Trees
-1.[All traversals](./btrees/traversals.py) These are all the traversals for binary trees
-2.[Search Key](./btrees/search.py) Searching node in a binary search trees LC #[700](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)
-3.[Delete node](./btrees/deleteNode.py) Deleting a node recurisive approach LC #[450](https://leetcode.com/problems/delete-node-in-a-bst/)
-4.[Maximum Depth Btree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) maximum depth tree
-5.[Leaf Similar Tree](./btrees/similar_leaf.py) easy binary tree problem LC #[872](https://leetcode.com/problems/leaf-similar-trees/description/)
+1. [All traversals](./btrees/traversals.py) These are all the traversals for binary trees.
+2. [Search Key](./btrees/search.py) Searching node in a binary search trees LC #[700](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)
+3. [Delete node](./btrees/deleteNode.py) Deleting a node recurisive approach LC #[450](https://leetcode.com/problems/delete-node-in-a-bst/)
+4. [Maximum Depth Btree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) maximum depth tree
+5. [Leaf Similar Tree](./btrees/similar_leaf.py) easy binary tree problem LC #[872](https://leetcode.com/problems/leaf-similar-trees/description/)
 
 That's all for now folks!
