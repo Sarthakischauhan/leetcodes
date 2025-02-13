@@ -62,5 +62,6 @@ Well, let me know what you think about my solutions at [Find me](mailto:sarthak.
 3. [Delete node](./btrees/deleteNode.py) Deleting a node recurisive approach LC #[450](https://leetcode.com/problems/delete-node-in-a-bst/)
 4. [Maximum Depth Btree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) maximum depth tree
 5. [Leaf Similar Tree](./btrees/similar_leaf.py) easy binary tree problem LC #[872](https://leetcode.com/problems/leaf-similar-trees/description/)
-
+6. [Count good nodes in Tree](./btrees/good_nodes.py) medium, tough to think intuitively would recommend trying again
+7. [Longest Zig Zag](./btrees/zig_zag.py) what was the point of this
 That's all for now folks!
