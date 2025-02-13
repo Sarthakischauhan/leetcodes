@@ -64,4 +64,6 @@ Well, let me know what you think about my solutions at [Find me](mailto:sarthak.
 5. [Leaf Similar Tree](./btrees/similar_leaf.py) easy binary tree problem LC #[872](https://leetcode.com/problems/leaf-similar-trees/description/)
 6. [Count good nodes in Tree](./btrees/good_nodes.py) medium, tough to think intuitively would recommend trying again
 7. [Longest Zig Zag](./btrees/zig_zag.py) what was the point of this
+8. [Path Sum 2 & 3](./path_sums3.py) Start at the first and then revise your way till the third one. LC #[112](https://leetcode.com/problems/path-sum/)
+
 That's all for now folks!
