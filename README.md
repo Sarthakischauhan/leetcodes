@@ -6,7 +6,7 @@
 Well, let me know what you think about my solutions at [Find me](mailto:sarthak.chauhan@sjsu.edu)
 ### Two Pointer Solutions 
 1. [Merge Strings Alternatively](merge_strings_alternatively.py) was asked in Uber!, LC #[1768](https://leetcode.com/problems/merge-strings-alternately/description/)
-2. [Move Zeroes](./move_zeroes.py) Was asked in Tesla to me!. My simple Solution. 
+2. [Move Zeroes](./move_zeroes.py) Was asked in quite some interivews to me!. My simple Solution. 
 3. [Is Subsequence](./is_subsequence.py) two pointer approach not really needed. 
 4. [Max K-sum pairs](./max_k_pairs.py) Took help but the solution was really helpful. Always use sorted arrays if finding pairs.
 
