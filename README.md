@@ -51,6 +51,7 @@ Well, let me know what you think about my solutions at [Find me](mailto:sarthak.
 2. [Maximum number of vowels in subarray](./max_vowels_sub.py) Easy question, I couldn't solve/code it. LC #[1456](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/)
 3. [Max Consecutive III](./max_cons_3.py) tough to realise how sliding window can be used in this case. LC #[1004](https://leetcode.com/problems/max-consecutive-ones-iii/description/)
 4. [Longest Subarray of 1's after deleting one](./longest_sub1s.py) Same as last time, read answer for more LC #[1493](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) 
+5. [Maximum Subarray](./msm_kadane.py) Brings nothing but bad memory
 
 ### Rotate matrix
 1. [Rotate matrix 90 degree](./rotate_matrix.py) simple program to rotate matrix.
